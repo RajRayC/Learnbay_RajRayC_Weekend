@@ -1,2 +1,1 @@
-# Learnbay_RajRayC_Weekend
-My repo for weekend work
+# Personal work Python
