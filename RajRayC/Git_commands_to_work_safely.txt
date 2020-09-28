@@ -1,3 +1,7 @@
+-->git remote -v
+-->git branch -a
+-->git fetch origin master
+-->git checkout branchname
 --> git branch
 --> git checkout -b "yourbranchname"
 #Confirm that you are switched to your local branch
