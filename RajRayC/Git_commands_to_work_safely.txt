@@ -1,0 +1,13 @@
+--> git branch
+--> git checkout -b "yourbranchname"
+#Confirm that you are switched to your local branch
+--> git status
+If new file to be added then run --> git add file/folder name
+After addition/file modification --> git commit -m "message"
+Run  to confirm --> git status
+Run  to further confirm --> git branch
+-->git checkout master(or the destination branch name where you want to merge)
+Confirm with --> git branch
+Run to merge --> git merge "yourbranchname"
+--> git status 
+--> git log
